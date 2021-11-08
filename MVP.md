@@ -15,9 +15,7 @@
 ### Target
 * RATING - will be used later to build a Binary Classification, put the reviews into 2 buckets - Customers that are 'Happy' or 'Disappointed' with the product.
 
-I have done text preprocessing using NLTK (Tokenization, Stemming), Topic Modelling using 
-
-Here's the list of top 30 topics I found using LDA.
+I have done text preprocessing using NLTK (Tokenization, Stemming), Topic Modelling. Here's the list of top 30 topics visualization using pyLDAvis library.
 
 ![topics](https://github.com/chetana-vyas/Unsupervised_Learning/blob/main/images/top-30-topics.PNG)
 
