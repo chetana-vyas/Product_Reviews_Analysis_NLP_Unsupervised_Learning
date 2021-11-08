@@ -19,6 +19,6 @@ I have done text preprocessing using NLTK (Tokenization, Stemming), Topic Modell
 
 Here's the list of top 30 topics I found using LDA.
 
-![topics]()
+![topics](https://github.com/chetana-vyas/Unsupervised_Learning/blob/main/images/top-30-topics.PNG)
 
-![Example-topic-2]()
+![Example-topic-2](https://github.com/chetana-vyas/Unsupervised_Learning/blob/main/images/topic-2-PersonalCare.PNG)
