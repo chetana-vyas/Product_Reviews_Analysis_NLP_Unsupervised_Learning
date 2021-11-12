@@ -12,12 +12,27 @@
 
 ### WORKFLOW
 
-* EDA
-* NLP
-* TOPIC MODELING
-* RECOMMENDATION SYSTEM
-* CLASSIFICATION SYSTEM
+* EDA (data cleaning) 
+* NLP (tokenization, removing stop words, stemming)
+* TOPIC MODELING (NMF with TF-IDF Vectorizer)
+* RECOMMENDATION SYSTEM (content based filtering using the terms from reviews using cosine similarity matrix)
+* CLASSIFICATION SYSTEM (Logostic Regression and Decision Tree Classifier)
 
 ![topics](https://github.com/chetana-vyas/Unsupervised_Learning/blob/main/images/Topic_Interpretations.PNG)
 
-![Word_cloud](https://github.com/chetana-vyas/Unsupervised_Learning/blob/main/images/WORD_CLOUD_TITLES_BLACK_BG.PNG)
+Recommendation System example - 
+
+Input - 'skin cream'
+
+Recommendations: 
+* 'Olay Total Effects Daily Moisturizer
+* '7-In-1 Anti-Aging, 0.5oz'
+* 'Olay Regenerist Deep Hydration Regenerating Cream'
+* "L'oreal Paris Revitalift Triple Power Deep-Acting Moisturizer"
+* 'CeraVe SA Renewing Cream'
+* 'Shea Moisture African Black Soap Problem Skin Facial Mask'
+* 'Tree Hut Shea Body Butters, Coconut Lime, 7 oz'
+* 'Nivea Extended Moisture Body Lotion
+
+I have done Dimensionality Reduction using PCA, and tried K-Means clustering, but didn't get any insightful results
+
