@@ -18,6 +18,6 @@
 * RECOMMENDATION SYSTEM
 * CLASSIFICATION SYSTEM
 
-![topics]()
+![topics](https://github.com/chetana-vyas/Unsupervised_Learning/blob/main/images/Topic_Interpretations.PNG)
 
-![Example-topic-2]()
+![Word_cloud](https://github.com/chetana-vyas/Unsupervised_Learning/blob/main/images/WORD_CLOUD_TITLES_BLACK_BG.PNG)
