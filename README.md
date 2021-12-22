@@ -1,5 +1,8 @@
 # Product Reviews Analysis
 
+## Goal:
+To understand the following about Product Reviews - what are most frequently used words, distribution of the length of the reviews, understanding fake reviews, spelling errors, predicting product rating using the reviews, etc. 
+
 ## Data Description:
 
 • [kaggle dataset] (https://www.kaggle.com/datafiniti/grammar-and-online-product-reviews)
@@ -8,7 +11,17 @@
 
 ### Features
 
-* REVIEWS - concatenated reviewTitle + reviewText
+* id
+* reviewsText
+* reviewTitle
+* reviewRating
+* purchasedProduct
+* recommendProduct
+* brand	/ manufacturer
+* categories
+* pack_size
+* descriptions
+* dateAdded
 
 ### WORKFLOW
 
